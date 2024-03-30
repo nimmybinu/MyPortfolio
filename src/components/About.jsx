@@ -16,12 +16,17 @@ const About = () => {
         {/* row2 */}
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="font-bold sm:text-right text-4xl">
-            <p>Lorem ipsum dolor sit amet.</p>
+            <p>
+              Greetings! I'm Nimmy, take your time to explore and see what I've
+              been up to.
+            </p>
           </div>
           <div>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Blanditiis, nisi incidunt et ut nostrum dignissimos.
+              I'm passionate about building interactive web solutions. Using
+              MongoDB, Express.js, React.js, and Node.js, I create user-friendly
+              experiences. Let's collaborate and
+              make your online presence shine!"
             </p>
           </div>
         </div>
